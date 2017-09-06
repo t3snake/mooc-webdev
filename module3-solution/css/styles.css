@@ -8,8 +8,17 @@ h1{
     font-size: 30px;
     margin: 0px;
 }
+h2{
+    font-size: 20px;
+}
+p{
+    font size: 16px;
+}
 .container{
     margin: 0px;
+}
+.x{
+    background-color: white;
 }
 .row{
     width: 100%;
@@ -17,14 +26,29 @@ h1{
     margin: 0px;
 }
 
+.navbar-header{
+    background-color: lightgrey;
+    height: 60px;
+}
+.navbar-brand{
+    background-color: lightgrey;
+}
 #header-nav{
     background-color: lightgrey;
 }
-#collapsable-nav{
-    background-color: white;
-}
+
 #a, #b, #c{
-    background-color: lightgrey;
+    
     width: 100%;
     padding: 5%;
+    margin-bottom: 30px;
+}
+#b{
+    background-color: lightcyan;
+}
+#c{
+    background-color: lightgreen;   
+}
+#a{
+    background-color: bisque;
 }
