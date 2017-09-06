@@ -7,6 +7,7 @@ h1{
     padding: 0px;
     font-size: 30px;
     margin: 0px;
+    
 }
 h2{
     font-size: 20px;
@@ -38,7 +39,7 @@ p{
 }
 
 #a, #b, #c{
-    
+    border: 1px solid;
     width: 100%;
     padding: 5%;
     margin-bottom: 30px;
